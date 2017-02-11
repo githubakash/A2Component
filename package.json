@@ -1,0 +1,19 @@
+{
+  "name": "a2component",
+  "version": "1.0.0",
+  "description": "Angular2 component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubakash/A2Component.git"
+  },
+  "author": "Akash Agarwal <akash.software.1982@gmail.com> (http://www.codingconcept2code.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubakash/A2Component/issues"
+  },
+  "homepage": "https://github.com/githubakash/A2Component#readme"
+}
